@@ -6,6 +6,6 @@ The project was produced to allow me to practice using Python to produce web app
 
 Please feel free to view the GitHub repository from the link above.
 
-#TECHNOLOGIES USED
+# TECHNOLOGIES USED
 
 Python, PyAutoGUI Module, GIT, GitHub Desktop.
